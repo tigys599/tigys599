@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tigys599
+- 👋 Hi, I’m Lewis!
 - 👀 I’m interested in computer software, middleware, hardware. I enjoy building applications for my own use, but am looking to expand into building applications for others
 - 🌱 I’m currently learning to be a full stack web developer
 - 💞️ I’m looking to collaborate on learning and self development, sharing idea's with other developer enthusiests. 
